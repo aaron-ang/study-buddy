@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+**If you are unable to log in with your BU account, it is most likely that the PlanetScale database is sleeping 💤**
 
 This app is deployed at https://bu-study-buddy.vercel.app/.
 
@@ -9,6 +9,8 @@ Frontend: Nextjs [App Router](https://beta.nextjs.org/docs/app-directory-roadmap
 Backend: Nextjs [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers)
 
 APIs: [OpenWeather](https://openweathermap.org/api) and [Google Maps](https://developers.google.com/maps/documentation/javascript/overview) (with [@react-google-maps/api](https://www.npmjs.com/package/@react-google-maps/api))
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
